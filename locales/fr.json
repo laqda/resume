@@ -1,0 +1,107 @@
+{
+  "header": {
+    "address": {
+      "line1": "12 rue Fourcade",
+      "line2": "75015 Paris"
+    }
+  },
+  "xp": {
+    "title": "expériences professionnelles",
+    "armed_forces": {
+      "title": "Ingénieur - Développeur fullstack",
+      "organization": "Ministère des Armées",
+      "location": "Paris",
+      "duration": "avril 2020 - ~",
+      "section1": {
+        "line1": "Membre d'une équipe agile en charge du développement d'une application web collaborative (type Saas)",
+        "line2": "- développement de nouvelles features sur l'ensemble des services frontend et backend",
+        "line3": "- réduction de la dette technique",
+        "line4": "- participation aux décisions techniques architecturales"
+      },
+      "section2": {
+        "line1": "Développement et supervision d'un outil d'enrichissement de la donnée"
+      },
+      "section3": {
+        "line1": "Développement d'un outil d'exploration d'une base de données graphe. Le challenge consistait à exposer un schéma GraphQL \"métier\" tout en maintenant les performances de lecture qu'offre Gremlin"
+      }
+    },
+    "akoute": {
+      "title": "Développeur logiciel",
+      "organization": "Akoute",
+      "location": "Paris",
+      "duration": "avril - août 2019",
+      "section1": {
+        "line1": "Développement d'une application Electron dans le secteur de l'audiométrie"
+      }
+    },
+    "hda": {
+      "title": "Stage - IT Leader",
+      "organization": "HDA Services",
+      "location": "Genève",
+      "duration": "sept. - déc. 2018",
+      "section1": {
+        "line1": "Accompagnement dans la digitalisation et réalisation de divers projets"
+      }
+    },
+    "junior": {
+      "title": "Consultant",
+      "organization": "Junior ISEP",
+      "location": "Paris",
+      "duration": "2017 - 2019",
+      "section1": {
+        "line1": "Réalisation de différentes missions de développement web"
+      }
+    }
+  },
+  "study": {
+    "title": "formation",
+    "cs": {
+      "title": "Mastère spécialisé",
+      "organization": "CentraleSupélec",
+      "location": "Rennes",
+      "duration": "2019 - 2020",
+      "section1": {
+        "line1": "Admission sur titre, diplôme de spécialisation filière Systèmes d'Informations Sécurisés"
+      },
+      "tags": {
+        "os": "Système d'exploitation",
+        "compilation": "Compilation",
+        "cryptography": "Cryptographie"
+      }
+    },
+    "isep": {
+      "title": "École d'ingénieur",
+      "organization": "ISEP",
+      "location": "Paris",
+      "duration": "2015 - 2020",
+      "section1": {
+        "line1": "Diplôme d'ingénieur filière Ingénierie logiciel"
+      },
+      "tags": {
+        "algorithmics": "Algorithmique"
+      }
+    }
+  },
+  "languages": {
+    "title": "langues",
+    "english": {
+      "title": "Anglais",
+      "label": "professionnel"
+    },
+    "deutsch": {
+      "title": "Allemand",
+      "label": "notions"
+    }
+  },
+  "hobbies": {
+    "title": "Loisirs",
+    "sports": {
+      "title": "Sports",
+      "list": "Roller, Volley-ball, Randonnée, Self-défense"
+    },
+    "trips": {
+      "title": "Voyages",
+      "list": "Capitales européennes, USA"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "header": {
+    "address": {
+      "line1": "12 rue Fourcade",
+      "line2": "75015 Paris, France"
+    }
+  },
+  "xp": {
+    "title": "professional experiences",
+    "armed_forces": {
+      "title": "Engineer - Fullstack Developer",
+      "organization": "Ministry of Armed Forces",
+      "location": "Paris, France",
+      "duration": "april 2020 - ~",
+      "section1": {
+        "line1": "Member of an agile team in charge of the development of a collaborative web application (Saas type)",
+        "line2": "- development of new features on all frontend and backend services",
+        "line3": "- reduction of technical debt",
+        "line4": "- participation in architectural technical decisions"
+      },
+      "section2": {
+        "line1": "Development and supervision of a data enrichment tool"
+      },
+      "section3": {
+        "line1": "Development of a tool for exploring a graph database. The challenge consisted in exposing a \"business\" GraphQL schema while maintaining the reading performance offered by Gremlin."
+      }
+    },
+    "akoute": {
+      "title": "Software developer",
+      "organization": "Akoute",
+      "location": "Paris, France",
+      "duration": "april - august 2019",
+      "section1": {
+        "line1": "Development of an Electron application in the audiometry sector"
+      }
+    },
+    "hda": {
+      "title": "Internship - IT Leader",
+      "organization": "HDA Services",
+      "location": "Geneva, Switzerland",
+      "duration": "sept. - dec. 2018",
+      "section1": {
+        "line1": "Support in digitization and realization of various projects"
+      }
+    },
+    "junior": {
+      "title": "Consultant",
+      "organization": "Junior ISEP",
+      "location": "Paris, France",
+      "duration": "2017 - 2019",
+      "section1": {
+        "line1": "Realization of various web development missions"
+      }
+    }
+  },
+  "study": {
+    "title": "studies",
+    "cs": {
+      "title": "Specialized master",
+      "organization": "CentraleSupélec",
+      "location": "Rennes, France",
+      "duration": "2019 - 2020",
+      "section1": {
+        "line1": "Admission based on qualification, specialization diploma in Secure Information Systems"
+      },
+      "tags": {
+        "os": "Operating system",
+        "compilation": "Compilation",
+        "cryptography": "Cryptography"
+      }
+    },
+    "isep": {
+      "title": "MA - Engineer school",
+      "organization": "ISEP",
+      "location": "Paris, France",
+      "duration": "2015 - 2020",
+      "section1": {
+        "line1": "Master’s Degree in software engineering"
+      },
+      "tags": {
+        "algorithmics": "Algorithmics"
+      }
+    }
+  },
+  "languages": {
+    "title": "languages",
+    "french": {
+      "title": "French",
+      "label": "native"
+    },
+    "english": {
+      "title": "English",
+      "label": "professional"
+    }
+  },
+  "hobbies": {
+    "title": "Hobbies",
+    "sports": {
+      "title": "Sports",
+      "list": "Rollerblading, Volleyball, Hiking, Self-defense"
+    },
+    "trips": {
+      "title": "Trips",
+      "list": "European capitals, USA"
+    }
+  }
+}
